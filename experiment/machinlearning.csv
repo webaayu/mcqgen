@@ -1,0 +1,4 @@
+MCQ,Choices,Correct
+What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data | b: A field of study in robotics concerned with building physical machines that can learn from data | c: A field of study in biology concerned with studying machine behavior in natural environments | d: A field of study in chemistry concerned with developing new materials for machine learning algorithms,a
+Who coined the term 'machine learning'?,a: Alan Turing | b: Donald Hebb | c: Arthur Samuel | d: Tom M. Mitchell,c
+What is the main objective of modern-day machine learning?,a: To confuse data based on models developed | b: To predict future outcomes based on models developed | c: To ignore data and make arbitrary predictions | d: To memorize data without understanding it,b
