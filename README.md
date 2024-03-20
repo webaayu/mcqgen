@@ -14,4 +14,4 @@ Run **`pip install -r requirements.txt`**
 
 Run **`streamlit run StreamlitApp.py`**
 
-And YES!!!!! It's Running!!!!!:)
+And YES!!!!! It's Running in your browser!!!!!:)
