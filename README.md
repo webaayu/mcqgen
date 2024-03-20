@@ -1,6 +1,6 @@
 **Clone** this repo
 
-Create **.env** folder and add your **OpenAI API key** in **.env** folder like **`OPENAI_API_KEY="<your_api_key>"`**
+Create **.env** file in **mcqgen** folder and add your **OpenAI API key** in **.env** file like **`OPENAI_API_KEY="<your_api_key>"`**
 
 Change the path of **response.json** file in **StreamlitApp.py** as it is given as my local machine path
 
