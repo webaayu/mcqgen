@@ -16,11 +16,11 @@ import PyPDF2
 
 
 #load environment var from .env
-load_dotenv()
+load_dotenv() #remove if you want t use ollama
 #acess env var
-KEY=os.getenv("OPENAI_API_KEY")
+KEY=os.getenv("OPENAI_API_KEY") #remove if you want t use ollama
 
-llm = ChatOpenAI(openai_api_key=KEY,model_name="gpt-3.5-turbo", temperature=0.5)
+llm = ChatOpenAI(openai_api_key=KEY,model_name="gpt-3.5-turbo", temperature=0.5) #remove if you want t use ollama
 #llm = Ollama(model="mistral") #if you want to use ollama's mistral model
 TEMPLATE="""
 Text:{text}
