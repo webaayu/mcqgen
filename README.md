@@ -15,3 +15,8 @@ Run **`pip install -r requirements.txt`**
 Run **`streamlit run StreamlitApp.py`**
 
 And YES!!!!! It's Running in your browser!!!!!:)
+
+**Note:**
+
+If you want to use ollama's mistral model instead of openAI do the changes in **MCQGenerator.py** file and 
+run **`streamlit run stApp_ollama.py`**
